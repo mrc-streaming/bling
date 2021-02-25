@@ -1,6 +1,8 @@
 {
-   "schemaVersion":1,
-   "label":"reach",
-   "message":"by mail",
-   "color":"blue"
+   "Label": {
+      "schemaVersion":1,
+      "label":"reach",
+      "message":"by mail",
+      "color":"blue"
+   }
 }
